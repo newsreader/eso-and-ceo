@@ -1030,7 +1030,7 @@ Date: 14/11/2014</rdfs:comment>
     <owl:Class rdf:about="http://www.newsreader-project.eu/domain-ontology#ChangingPositionInOrganization">
         <rdfs:label xml:lang="en">ChangingPositionInOrganization</rdfs:label>
         <rdfs:subClassOf rdf:resource="http://www.newsreader-project.eu/domain-ontology#OrganizationalEvent"/>
-        <correspondToSUMOClass>http://www.ontologyportal.org/SUMO.owl# TransferringPosition</correspondToSUMOClass>
+        <correspondToSUMOClass>http://www.ontologyportal.org/SUMO.owl#TransferringPosition</correspondToSUMOClass>
         <rdfs:comment xml:lang="en">Events where a persons changes of position within an organization, e.g. promotion and demotion.</rdfs:comment>
     </owl:Class>
     
@@ -1779,6 +1779,7 @@ Date: 14/11/2014</rdfs:comment>
         </rdfs:subClassOf>
         <rdfs:comment xml:lang="en">Static event where someone is doing work. Note that there is some overlap with the event property InEmployment.</rdfs:comment>
         <correspondToFrameNetFrame>http://www.newsreader-project.eu/framenet#Working</correspondToFrameNetFrame>
+        <correspondToFrameNetFrame>http://www.newsreader-project.eu/framenet#Working_a_post</correspondToFrameNetFrame>
     </owl:Class>
     
 
