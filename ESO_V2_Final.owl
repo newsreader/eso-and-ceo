@@ -273,9 +273,9 @@ Date: 25/06/2015</rdfs:comment>
     
 
 
-    <!-- http://www.newsreader-project.eu/domain-ontology#creating_theme -->
+    <!-- http://www.newsreader-project.eu/domain-ontology#creating-theme -->
 
-    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#creating_theme">
+    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#creating-theme">
         <rdfs:label xml:lang="en">creating-theme</rdfs:label>
         <correspondToFrameNetElement>http://www.newsreader-project.eu/framenet#Product</correspondToFrameNetElement>
         <correspondToFrameNetElement>http://www.newsreader-project.eu/framenet#Created_entity</correspondToFrameNetElement>
@@ -293,19 +293,19 @@ Date: 25/06/2015</rdfs:comment>
     
 
 
-    <!-- http://www.newsreader-project.eu/domain-ontology#damaging-state-1 -->
+    <!-- http://www.newsreader-project.eu/domain-ontology#damaging-state_1 -->
 
-    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#damaging-state-1">
-        <rdfs:label xml:lang="en">damaging-state-1</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#damaging-state_1">
+        <rdfs:label xml:lang="en">damaging-state_1</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="http://www.newsreader-project.eu/domain-ontology#hasRole"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.newsreader-project.eu/domain-ontology#damaging-state-2 -->
+    <!-- http://www.newsreader-project.eu/domain-ontology#damaging-state_2 -->
 
-    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#damaging-state-2">
-        <rdfs:label xml:lang="en">damaging-state-2</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#damaging-state_2">
+        <rdfs:label xml:lang="en">damaging-state_2</rdfs:label>
         <rdfs:subPropertyOf rdf:resource="http://www.newsreader-project.eu/domain-ontology#hasRole"/>
     </owl:ObjectProperty>
     
@@ -1047,10 +1047,10 @@ Date: 25/06/2015</rdfs:comment>
     
 
 
-    <!-- http://www.newsreader-project.eu/domain-ontology#possession-financial-asset -->
+    <!-- http://www.newsreader-project.eu/domain-ontology#possession-financial_asset -->
 
-    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#possession-financial-asset">
-        <rdfs:label xml:lang="en">possession-financial-asset</rdfs:label>
+    <owl:ObjectProperty rdf:about="http://www.newsreader-project.eu/domain-ontology#possession-financial_asset">
+        <rdfs:label xml:lang="en">possession-financial_asset</rdfs:label>
         <correspondToFrameNetElement>http://www.newsreader-project.eu/framenet#Money</correspondToFrameNetElement>
         <rdfs:subPropertyOf rdf:resource="http://www.newsreader-project.eu/domain-ontology#hasRole"/>
     </owl:ObjectProperty>
@@ -1597,7 +1597,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdfs:subClassOf rdf:resource="http://www.newsreader-project.eu/domain-ontology#IntentionalEvent"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state-1"/>
+                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state_1"/>
                 <owl:someValuesFrom rdf:resource="&owl;Thing"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -1609,7 +1609,7 @@ Date: 25/06/2015</rdfs:comment>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state-2"/>
+                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state_2"/>
                 <owl:someValuesFrom rdf:resource="&owl;Thing"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -1957,13 +1957,13 @@ Date: 25/06/2015</rdfs:comment>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state-2"/>
+                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state_2"/>
                 <owl:someValuesFrom rdf:resource="&owl;Thing"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state-1"/>
+                <owl:onProperty rdf:resource="http://www.newsreader-project.eu/domain-ontology#damaging-state_1"/>
                 <owl:someValuesFrom rdf:resource="&owl;Thing"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -3440,7 +3440,7 @@ Date: 25/06/2015</rdfs:comment>
     <owl:Thing rdf:about="http://www.newsreader-project.eu/domain-ontology#post_Damaging_assertion_1">
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state-2</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state_2</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-undergoer</hasSituationAssertionSubject>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#inState</hasSituationAssertionProperty>
     </owl:Thing>
@@ -3453,7 +3453,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#UnarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionObjectValue rdf:datatype="&xsd;relativeValue">-</hasSituationAssertionObjectValue>
-        <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state-2</hasSituationAssertionSubject>
+        <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state_2</hasSituationAssertionSubject>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#hasRelativeValue</hasSituationAssertionProperty>
     </owl:Thing>
     
@@ -3630,7 +3630,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#notHasInPossession</hasSituationAssertionProperty>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial-asset</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial_asset</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-owner_2</hasSituationAssertionSubject>
     </owl:Thing>
     
@@ -3642,7 +3642,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#hasInPossession</hasSituationAssertionProperty>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial-asset</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial_asset</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-owner_1</hasSituationAssertionSubject>
     </owl:Thing>
     
@@ -4257,7 +4257,7 @@ Date: 25/06/2015</rdfs:comment>
     <owl:Thing rdf:about="http://www.newsreader-project.eu/domain-ontology#pre_Damaging_assertion_1">
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state-1</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state_1</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-undergoer</hasSituationAssertionSubject>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#inState</hasSituationAssertionProperty>
     </owl:Thing>
@@ -4270,7 +4270,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#UnarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionObjectValue rdf:datatype="&xsd;relativeValue">+</hasSituationAssertionObjectValue>
-        <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state-1</hasSituationAssertionSubject>
+        <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#damaging-state_1</hasSituationAssertionSubject>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#hasRelativeValue</hasSituationAssertionProperty>
     </owl:Thing>
     
@@ -4398,7 +4398,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#notHasInPossession</hasSituationAssertionProperty>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial-asset</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial_asset</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-owner_1</hasSituationAssertionSubject>
     </owl:Thing>
     
@@ -4410,7 +4410,7 @@ Date: 25/06/2015</rdfs:comment>
         <rdf:type rdf:resource="http://www.newsreader-project.eu/domain-ontology#BinarySituationRuleAssertion"/>
         <rdf:type rdf:resource="&owl;NamedIndividual"/>
         <hasSituationAssertionProperty rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#hasInPossession</hasSituationAssertionProperty>
-        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial-asset</hasSituationAssertionObject>
+        <hasSituationAssertionObject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-financial_asset</hasSituationAssertionObject>
         <hasSituationAssertionSubject rdf:datatype="&xsd;anyURI">http://www.newsreader-project.eu/domain-ontology#possession-owner_2</hasSituationAssertionSubject>
     </owl:Thing>
     
