@@ -1,0 +1,613 @@
+<Document doc_name="40986_Apple_releases_Macbook">
+<token t_id="1" sentence="0" number="0">Apple</token>
+<token t_id="2" sentence="0" number="1">releases</token>
+<token t_id="3" sentence="0" number="2">Macbook</token>
+<token t_id="4" sentence="1" number="3">May</token>
+<token t_id="5" sentence="1" number="4">17</token>
+<token t_id="6" sentence="1" number="5">,</token>
+<token t_id="7" sentence="1" number="6">2006</token>
+<token t_id="8" sentence="2" number="7">Apple</token>
+<token t_id="9" sentence="2" number="8">Computer</token>
+<token t_id="10" sentence="2" number="9">today</token>
+<token t_id="11" sentence="2" number="10">introduced</token>
+<token t_id="12" sentence="2" number="11">the</token>
+<token t_id="13" sentence="2" number="12">new</token>
+<token t_id="14" sentence="2" number="13">MacBook</token>
+<token t_id="15" sentence="2" number="14">line</token>
+<token t_id="16" sentence="2" number="15">,</token>
+<token t_id="17" sentence="2" number="16">which</token>
+<token t_id="18" sentence="2" number="17">includes</token>
+<token t_id="19" sentence="2" number="18">the</token>
+<token t_id="20" sentence="2" number="19">Macbook</token>
+<token t_id="21" sentence="2" number="20">and</token>
+<token t_id="22" sentence="2" number="21">Macbook</token>
+<token t_id="23" sentence="2" number="22">Pro</token>
+<token t_id="24" sentence="2" number="23">.</token>
+<token t_id="25" sentence="3" number="24">It</token>
+<token t_id="26" sentence="3" number="25">is</token>
+<token t_id="27" sentence="3" number="26">the</token>
+<token t_id="28" sentence="3" number="27">successor</token>
+<token t_id="29" sentence="3" number="28">to</token>
+<token t_id="30" sentence="3" number="29">the</token>
+<token t_id="31" sentence="3" number="30">iBook</token>
+<token t_id="32" sentence="3" number="31">line</token>
+<token t_id="33" sentence="3" number="32">and</token>
+<token t_id="34" sentence="3" number="33">contains</token>
+<token t_id="35" sentence="3" number="34">Intel</token>
+<token t_id="36" sentence="3" number="35">Core</token>
+<token t_id="37" sentence="3" number="36">Duo</token>
+<token t_id="38" sentence="3" number="37">processors</token>
+<token t_id="39" sentence="3" number="38">and</token>
+<token t_id="40" sentence="3" number="39">a</token>
+<token t_id="41" sentence="3" number="40">host</token>
+<token t_id="42" sentence="3" number="41">of</token>
+<token t_id="43" sentence="3" number="42">features</token>
+<token t_id="44" sentence="3" number="43">,</token>
+<token t_id="45" sentence="3" number="44">and</token>
+<token t_id="46" sentence="3" number="45">starting</token>
+<token t_id="47" sentence="3" number="46">at</token>
+<token t_id="48" sentence="3" number="47">a</token>
+<token t_id="49" sentence="3" number="48">price</token>
+<token t_id="50" sentence="3" number="49">of</token>
+<token t_id="51" sentence="3" number="50">$</token>
+<token t_id="52" sentence="3" number="51">1,099</token>
+<token t_id="53" sentence="3" number="52">.</token>
+<token t_id="54" sentence="4" number="53">The</token>
+<token t_id="55" sentence="4" number="54">Macbook</token>
+<token t_id="56" sentence="4" number="55">features</token>
+<token t_id="57" sentence="4" number="56">a</token>
+<token t_id="58" sentence="4" number="57">13.3</token>
+<token t_id="59" sentence="4" number="58">''</token>
+<token t_id="60" sentence="4" number="59">widescreen</token>
+<token t_id="61" sentence="4" number="60">display</token>
+<token t_id="62" sentence="4" number="61">,</token>
+<token t_id="63" sentence="4" number="62">while</token>
+<token t_id="64" sentence="4" number="63">the</token>
+<token t_id="65" sentence="4" number="64">Pro</token>
+<token t_id="66" sentence="4" number="65">can</token>
+<token t_id="67" sentence="4" number="66">be</token>
+<token t_id="68" sentence="4" number="67">purchased</token>
+<token t_id="69" sentence="4" number="68">with</token>
+<token t_id="70" sentence="4" number="69">either</token>
+<token t_id="71" sentence="4" number="70">15</token>
+<token t_id="72" sentence="4" number="71">''</token>
+<token t_id="73" sentence="4" number="72">or</token>
+<token t_id="74" sentence="4" number="73">17</token>
+<token t_id="75" sentence="4" number="74">''</token>
+<token t_id="76" sentence="4" number="75">displays</token>
+<token t_id="77" sentence="4" number="76">.</token>
+<token t_id="78" sentence="5" number="77">It</token>
+<token t_id="79" sentence="5" number="78">comes</token>
+<token t_id="80" sentence="5" number="79">in</token>
+<token t_id="81" sentence="5" number="80">two</token>
+<token t_id="82" sentence="5" number="81">colors</token>
+<token t_id="83" sentence="5" number="82">:</token>
+<token t_id="84" sentence="5" number="83">Black</token>
+<token t_id="85" sentence="5" number="84">(</token>
+<token t_id="86" sentence="5" number="85">2</token>
+<token t_id="87" sentence="5" number="86">GHz</token>
+<token t_id="88" sentence="5" number="87">model</token>
+<token t_id="89" sentence="5" number="88">only</token>
+<token t_id="90" sentence="5" number="89">)</token>
+<token t_id="91" sentence="5" number="90">and</token>
+<token t_id="92" sentence="5" number="91">White</token>
+<token t_id="93" sentence="5" number="92">(</token>
+<token t_id="94" sentence="5" number="93">1.83</token>
+<token t_id="95" sentence="5" number="94">and</token>
+<token t_id="96" sentence="5" number="95">2</token>
+<token t_id="97" sentence="5" number="96">GHz</token>
+<token t_id="98" sentence="5" number="97">models</token>
+<token t_id="99" sentence="5" number="98">)</token>
+<token t_id="100" sentence="5" number="99">.</token>
+<token t_id="101" sentence="6" number="100">This</token>
+<token t_id="102" sentence="6" number="101">release</token>
+<token t_id="103" sentence="6" number="102">leaves</token>
+<token t_id="104" sentence="6" number="103">only</token>
+<token t_id="105" sentence="6" number="104">one</token>
+<token t_id="106" sentence="6" number="105">PowerPC</token>
+<token t_id="107" sentence="6" number="106">processor</token>
+<token t_id="108" sentence="6" number="107">computer</token>
+<token t_id="109" sentence="6" number="108">that</token>
+<token t_id="110" sentence="6" number="109">has</token>
+<token t_id="111" sentence="6" number="110">not</token>
+<token t_id="112" sentence="6" number="111">made</token>
+<token t_id="113" sentence="6" number="112">the</token>
+<token t_id="114" sentence="6" number="113">transition</token>
+<token t_id="115" sentence="6" number="114">to</token>
+<token t_id="116" sentence="6" number="115">Intel</token>
+<token t_id="117" sentence="6" number="116">chips</token>
+<token t_id="118" sentence="6" number="117">,</token>
+<token t_id="119" sentence="6" number="118">the</token>
+<token t_id="120" sentence="6" number="119">PowerMac</token>
+<token t_id="121" sentence="6" number="120">G5</token>
+<token t_id="122" sentence="6" number="121">.</token>
+
+
+<Markables>
+<ENTITY_MENTION m_id="25" syntactic_type="NOM" head="processors" comment=""  >
+<token_anchor t_id="35"/>
+<token_anchor t_id="36"/>
+<token_anchor t_id="37"/>
+<token_anchor t_id="38"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="1" syntactic_type="PRE.NAM" head="Intel" comment=""  >
+<token_anchor t_id="35"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="2" syntactic_type="NOM" head="features" comment=""  >
+<token_anchor t_id="40"/>
+<token_anchor t_id="41"/>
+<token_anchor t_id="42"/>
+<token_anchor t_id="43"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="3" syntactic_type="NAM" head="Macbook" comment=""  >
+<token_anchor t_id="54"/>
+<token_anchor t_id="55"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="4" syntactic_type="NAM" head="Apple" comment=""  >
+<token_anchor t_id="1"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="5" syntactic_type="NOM" head="display" comment=""  >
+<token_anchor t_id="57"/>
+<token_anchor t_id="58"/>
+<token_anchor t_id="59"/>
+<token_anchor t_id="60"/>
+<token_anchor t_id="61"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="6" syntactic_type="NAM" head="Macbook" comment=""  >
+<token_anchor t_id="3"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="7" syntactic_type="NAM" head="Pro" comment=""  >
+<token_anchor t_id="64"/>
+<token_anchor t_id="65"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="8" syntactic_type="CONJ" head="" comment=""  >
+<token_anchor t_id="35"/>
+<token_anchor t_id="36"/>
+<token_anchor t_id="37"/>
+<token_anchor t_id="38"/>
+<token_anchor t_id="39"/>
+<token_anchor t_id="40"/>
+<token_anchor t_id="41"/>
+<token_anchor t_id="42"/>
+<token_anchor t_id="43"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="9" syntactic_type="NOM" head="the iBook line" comment=""  >
+<token_anchor t_id="27"/>
+<token_anchor t_id="28"/>
+<token_anchor t_id="29"/>
+<token_anchor t_id="30"/>
+<token_anchor t_id="31"/>
+<token_anchor t_id="32"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="10" syntactic_type="PRO" head="it" comment=""  >
+<token_anchor t_id="78"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="11" syntactic_type="NAM" head="Apple Computer" comment=""  >
+<token_anchor t_id="8"/>
+<token_anchor t_id="9"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="12" syntactic_type="PRO" head="model" comment=""  >
+<token_anchor t_id="86"/>
+<token_anchor t_id="87"/>
+<token_anchor t_id="88"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="13" syntactic_type="NAM" head="Macbook Pro" comment=""  >
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="14" syntactic_type="NOM" head="models" comment=""  >
+<token_anchor t_id="94"/>
+<token_anchor t_id="95"/>
+<token_anchor t_id="96"/>
+<token_anchor t_id="97"/>
+<token_anchor t_id="98"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="15" syntactic_type="NAM" head="Macbook" comment=""  >
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="16" syntactic_type="NAM" head="MacBook" comment=""  >
+<token_anchor t_id="14"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="17" syntactic_type="CONJ" head="" comment=""  >
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+<token_anchor t_id="21"/>
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="18" syntactic_type="NOM" head="price" comment=""  >
+<token_anchor t_id="48"/>
+<token_anchor t_id="49"/>
+<token_anchor t_id="50"/>
+<token_anchor t_id="51"/>
+<token_anchor t_id="52"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="19" syntactic_type="NOM" head="line" comment=""  >
+<token_anchor t_id="12"/>
+<token_anchor t_id="13"/>
+<token_anchor t_id="14"/>
+<token_anchor t_id="15"/>
+<token_anchor t_id="16"/>
+<token_anchor t_id="17"/>
+<token_anchor t_id="18"/>
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+<token_anchor t_id="21"/>
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="20" syntactic_type="PRO" head="which" comment=""  >
+<token_anchor t_id="17"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="21" syntactic_type="NOM" head="displays" comment=""  >
+<token_anchor t_id="70"/>
+<token_anchor t_id="71"/>
+<token_anchor t_id="72"/>
+<token_anchor t_id="73"/>
+<token_anchor t_id="74"/>
+<token_anchor t_id="75"/>
+<token_anchor t_id="76"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="22" syntactic_type="PRO" head="It" comment=""  >
+<token_anchor t_id="25"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="23" syntactic_type="NOM" head="iBook line" comment=""  >
+<token_anchor t_id="30"/>
+<token_anchor t_id="31"/>
+<token_anchor t_id="32"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="24" syntactic_type="NAM" head="iBook" comment=""  >
+<token_anchor t_id="31"/>
+</ENTITY_MENTION>
+<EVENT_MENTION m_id="26" time="NON_FUTURE" aspect="NONE" special_cases="NONE" certainty="POSSIBLE" polarity="POS" tense="NONE" modality="can" pred="purchase" comment="" pos="VERB"  >
+<token_anchor t_id="68"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="27" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="come" comment="" pos="VERB"  >
+<token_anchor t_id="79"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="28" time="NON_FUTURE" aspect="NONE" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="PAST" modality="" pred="introduce" comment="" pos="VERB"  >
+<token_anchor t_id="11"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="29" time="NON_FUTURE" aspect="" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="26"/>
+<token_anchor t_id="34"/>
+<token_anchor t_id="46"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="30" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="include" comment="" pos="VERB"  >
+<token_anchor t_id="18"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="31" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="contain" comment="" pos="VERB"  >
+<token_anchor t_id="34"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="32" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="feature" comment="" pos="VERB"  >
+<token_anchor t_id="56"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="33" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="be" comment="" pos="VERB"  >
+<token_anchor t_id="26"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="34" time="NON_FUTURE" aspect="NONE" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="PRESPART" modality="" pred="start" comment="" pos="VERB"  >
+<token_anchor t_id="46"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="35" time="NON_FUTURE" aspect="NONE" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="PRESENT" modality="" pred="release" comment="" pos="VERB"  >
+<token_anchor t_id="2"/>
+</EVENT_MENTION>
+<SIGNAL m_id="36" comment=""  >
+<token_anchor t_id="63"/>
+</SIGNAL>
+<TIMEX3 m_id="37" functionInDocument="CREATION_TIME" endPoint="" anchorTimeID="" beginPoint="" value="2006-05-17" comment="" type="DATE"  >
+<token_anchor t_id="4"/>
+<token_anchor t_id="5"/>
+<token_anchor t_id="6"/>
+<token_anchor t_id="7"/>
+</TIMEX3>
+<TIMEX3 m_id="38" functionInDocument="NONE" endPoint="" anchorTimeID="37" beginPoint="" value="2006-05-17" comment="" type="DATE"  >
+<token_anchor t_id="10"/>
+</TIMEX3>
+<VALUE m_id="39" type="QUANTITY" comment=""  >
+<token_anchor t_id="71"/>
+<token_anchor t_id="72"/>
+</VALUE>
+<VALUE m_id="40" type="QUANTITY" comment=""  >
+<token_anchor t_id="94"/>
+</VALUE>
+<VALUE m_id="41" type="MONEY" comment=""  >
+<token_anchor t_id="51"/>
+<token_anchor t_id="52"/>
+</VALUE>
+<VALUE m_id="42" type="QUANTITY" comment=""  >
+<token_anchor t_id="58"/>
+</VALUE>
+<VALUE m_id="43" type="QUANTITY" comment=""  >
+<token_anchor t_id="74"/>
+<token_anchor t_id="75"/>
+</VALUE>
+<VALUE m_id="44" type="QUANTITY" comment=""  >
+<token_anchor t_id="86"/>
+<token_anchor t_id="87"/>
+</VALUE>
+<VALUE m_id="45" type="QUANTITY" comment=""  >
+<token_anchor t_id="96"/>
+<token_anchor t_id="97"/>
+</VALUE>
+<VALUE m_id="46" type="QUANTITY" comment=""  >
+<token_anchor t_id="81"/>
+</VALUE>
+
+
+<ENTITY m_id="47" RELATED_TO="" TAG_DESCRIPTOR="Macbook and  Macbook Pro" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<ENTITY m_id="48" RELATED_TO="" TAG_DESCRIPTOR="Macbook Pro" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<ENTITY m_id="49" RELATED_TO="" TAG_DESCRIPTOR="MacBook" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<ENTITY m_id="50" RELATED_TO="" TAG_DESCRIPTOR="Apple Computer" ent_type="ORG" ent_class="SPC" comment="" external_ref="" />
+<ENTITY m_id="51" RELATED_TO="" TAG_DESCRIPTOR="MacBook line" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<EVENT m_id="52" RELATED_TO="" TAG_DESCRIPTOR="Include" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="53" RELATED_TO="" TAG_DESCRIPTOR="Introduce" class="OTHER" comment="" external_ref="" />
+<ENTITY m_id="54" RELATED_TO="" TAG_DESCRIPTOR="iBook line" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<ENTITY m_id="55" RELATED_TO="" TAG_DESCRIPTOR="iBook" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<EVENT m_id="56" RELATED_TO="" TAG_DESCRIPTOR="be" class="GRAMMATICAL" comment="" external_ref="" />
+<EVENT m_id="57" RELATED_TO="" TAG_DESCRIPTOR="contain" class="OTHER" comment="" external_ref="" />
+<ENTITY m_id="58" RELATED_TO="" TAG_DESCRIPTOR=" processors and features" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<ENTITY m_id="59" RELATED_TO="" TAG_DESCRIPTOR="Intel Core Duo processors" ent_type="PRO" ent_class="GEN" comment="" external_ref="" />
+<ENTITY m_id="60" RELATED_TO="" TAG_DESCRIPTOR="Intel" ent_type="ORG" ent_class="SPC" comment="" external_ref="" />
+<ENTITY m_id="61" RELATED_TO="" TAG_DESCRIPTOR="feature" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<EVENT m_id="62" RELATED_TO="" TAG_DESCRIPTOR="start" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="63" RELATED_TO="" TAG_DESCRIPTOR="feature" class="OTHER" comment="" external_ref="" />
+<ENTITY m_id="64" RELATED_TO="" TAG_DESCRIPTOR="13.3 display" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<EVENT m_id="65" RELATED_TO="" TAG_DESCRIPTOR="purchase" class="OTHER" comment="" external_ref="" />
+<ENTITY m_id="66" RELATED_TO="" TAG_DESCRIPTOR="15'' or 17'' displays" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<EVENT m_id="67" RELATED_TO="" TAG_DESCRIPTOR="come" class="OTHER" comment="" external_ref="" />
+<ENTITY m_id="68" RELATED_TO="" TAG_DESCRIPTOR="2 Ghz model" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<ENTITY m_id="69" RELATED_TO="" TAG_DESCRIPTOR="1.83 and 2 Ghz model" ent_type="PRO" ent_class="SPC" comment="" external_ref="" />
+<ENTITY m_id="70" RELATED_TO="" TAG_DESCRIPTOR="price" ent_type="FIN" ent_class="SPC" comment="" external_ref="" />
+<EVENT m_id="71" RELATED_TO="" TAG_DESCRIPTOR="is and contains and starting" class="MIX" comment="" external_ref="" />
+<EVENT m_id="72" RELATED_TO="" TAG_DESCRIPTOR="release" class="OTHER" comment="" external_ref="" />
+</Markables>
+
+<Relations>
+<HAS_PARTICIPANT r_id="482046" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="28" />
+<target m_id="11" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482047" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="28" />
+<target m_id="19" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482048" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="30" />
+<target m_id="20" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482049" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="33" />
+<target m_id="22" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482050" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="HavingInPossession" eso_role="possession-owner" comment="" frame_element="" >
+<source m_id="31" />
+<target m_id="22" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482051" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="34" />
+<target m_id="22" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482052" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="32" />
+<target m_id="3" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482053" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="Buying" eso_role="possession-theme" comment="" frame_element="" >
+<source m_id="26" />
+<target m_id="7" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482054" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="27" />
+<target m_id="10" />
+</HAS_PARTICIPANT>
+<TLINK r_id="482055" reltype="INCLUDES" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="28" />
+</TLINK>
+<TLINK r_id="482056" reltype="IS_INCLUDED" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="33" />
+</TLINK>
+<TLINK r_id="482057" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="31" />
+</TLINK>
+<TLINK r_id="482058" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="34" />
+</TLINK>
+<TLINK r_id="482059" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="32" />
+</TLINK>
+<TLINK r_id="482060" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="26" />
+</TLINK>
+<TLINK r_id="482061" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="27" />
+</TLINK>
+<TLINK r_id="482062" reltype="INCLUDES" comment="" signalID="" >
+<source m_id="38" />
+<target m_id="28" />
+</TLINK>
+<TLINK r_id="482063" reltype="IS_INCLUDED" comment="" signalID="" >
+<source m_id="28" />
+<target m_id="33" />
+</TLINK>
+<TLINK r_id="482064" reltype="BEGINS" comment="" signalID="" >
+<source m_id="37" />
+<target m_id="30" />
+</TLINK>
+<TLINK r_id="482065" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="33" />
+<target m_id="31" />
+</TLINK>
+<TLINK r_id="482066" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="33" />
+<target m_id="34" />
+</TLINK>
+<TLINK r_id="482067" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="33" />
+<target m_id="32" />
+</TLINK>
+<TLINK r_id="482068" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="32" />
+<target m_id="26" />
+</TLINK>
+<TLINK r_id="482069" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="32" />
+<target m_id="27" />
+</TLINK>
+<HAS_PARTICIPANT r_id="482070" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="30" />
+<target m_id="17" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482071" frame="" sem_role_framework="PROPBANK" sem_role="Arg2" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="33" />
+<target m_id="9" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482072" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="HavingInPossession" eso_role="possession-theme" comment="" frame_element="" >
+<source m_id="31" />
+<target m_id="8" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482073" frame="" sem_role_framework="PROPBANK" sem_role="Arg3" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="34" />
+<target m_id="18" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482074" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="HavingInPossession" eso_role="possession-theme" comment="" frame_element="" >
+<source m_id="32" />
+<target m_id="5" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482075" frame="" sem_role_framework="PROPBANK" sem_role="Arg3" eso_class="Buying" eso_role="" comment="" frame_element="" >
+<source m_id="26" />
+<target m_id="21" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482076" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="35" />
+<target m_id="4" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482077" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="35" />
+<target m_id="6" />
+</HAS_PARTICIPANT>
+<REFERS_TO r_id="482078" >
+<source m_id="1" />
+<target m_id="60" />
+</REFERS_TO>
+<REFERS_TO r_id="482079" >
+<source m_id="2" />
+<target m_id="61" />
+</REFERS_TO>
+<REFERS_TO r_id="482080" >
+<source m_id="34" />
+<target m_id="62" />
+</REFERS_TO>
+<REFERS_TO r_id="482081" >
+<source m_id="32" />
+<target m_id="63" />
+</REFERS_TO>
+<REFERS_TO r_id="482082" >
+<source m_id="5" />
+<target m_id="64" />
+</REFERS_TO>
+<REFERS_TO r_id="482083" >
+<source m_id="26" />
+<target m_id="65" />
+</REFERS_TO>
+<REFERS_TO r_id="482084" >
+<source m_id="21" />
+<target m_id="66" />
+</REFERS_TO>
+<REFERS_TO r_id="482085" >
+<source m_id="27" />
+<target m_id="67" />
+</REFERS_TO>
+<REFERS_TO r_id="482086" >
+<source m_id="12" />
+<target m_id="68" />
+</REFERS_TO>
+<REFERS_TO r_id="482087" >
+<source m_id="14" />
+<target m_id="69" />
+</REFERS_TO>
+<REFERS_TO r_id="482088" >
+<source m_id="7" />
+<source m_id="13" />
+<target m_id="48" />
+</REFERS_TO>
+<REFERS_TO r_id="482089" >
+<source m_id="3" />
+<source m_id="6" />
+<source m_id="15" />
+<source m_id="16" />
+<target m_id="49" />
+</REFERS_TO>
+<REFERS_TO r_id="482090" >
+<source m_id="17" />
+<target m_id="47" />
+</REFERS_TO>
+<REFERS_TO r_id="482091" >
+<source m_id="35" />
+<target m_id="72" />
+</REFERS_TO>
+<REFERS_TO r_id="482092" >
+<source m_id="29" />
+<target m_id="71" />
+</REFERS_TO>
+<REFERS_TO r_id="482093" >
+<source m_id="18" />
+<target m_id="70" />
+</REFERS_TO>
+<REFERS_TO r_id="482094" >
+<source m_id="25" />
+<target m_id="59" />
+</REFERS_TO>
+<REFERS_TO r_id="482095" >
+<source m_id="8" />
+<target m_id="58" />
+</REFERS_TO>
+<REFERS_TO r_id="482096" >
+<source m_id="24" />
+<target m_id="55" />
+</REFERS_TO>
+<REFERS_TO r_id="482097" >
+<source m_id="23" />
+<target m_id="54" />
+</REFERS_TO>
+<REFERS_TO r_id="482098" >
+<source m_id="31" />
+<target m_id="57" />
+</REFERS_TO>
+<REFERS_TO r_id="482099" >
+<source m_id="33" />
+<target m_id="56" />
+</REFERS_TO>
+<REFERS_TO r_id="482100" >
+<source m_id="9" />
+<source m_id="10" />
+<source m_id="19" />
+<source m_id="20" />
+<source m_id="22" />
+<target m_id="51" />
+</REFERS_TO>
+<REFERS_TO r_id="482101" >
+<source m_id="4" />
+<source m_id="11" />
+<target m_id="50" />
+</REFERS_TO>
+<REFERS_TO r_id="482102" >
+<source m_id="28" />
+<target m_id="53" />
+</REFERS_TO>
+<REFERS_TO r_id="482103" >
+<source m_id="30" />
+<target m_id="52" />
+</REFERS_TO>
+<HAS_PARTICIPANT r_id="495036" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="HavingInPossession" eso_role="possession-owner" comment="" frame_element="" >
+<source m_id="32" />
+<target m_id="3" />
+</HAS_PARTICIPANT>
+</Relations>
+</Document>

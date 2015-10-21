@@ -1,0 +1,983 @@
+<Document doc_name="199629_Apple_executive_...">
+<token t_id="1" sentence="0" number="0">Apple</token>
+<token t_id="2" sentence="0" number="1">executive</token>
+<token t_id="3" sentence="0" number="2">leaves</token>
+<token t_id="4" sentence="0" number="3">company</token>
+<token t_id="5" sentence="0" number="4">after</token>
+<token t_id="6" sentence="0" number="5">iPhone</token>
+<token t_id="7" sentence="0" number="6">4</token>
+<token t_id="8" sentence="0" number="7">antenna</token>
+<token t_id="9" sentence="0" number="8">issues</token>
+<token t_id="10" sentence="1" number="9">August</token>
+<token t_id="11" sentence="1" number="10">9</token>
+<token t_id="12" sentence="1" number="11">,</token>
+<token t_id="13" sentence="1" number="12">2010</token>
+<token t_id="14" sentence="2" number="13">Mark</token>
+<token t_id="15" sentence="2" number="14">Papermaster</token>
+<token t_id="16" sentence="2" number="15">,</token>
+<token t_id="17" sentence="2" number="16">formerly</token>
+<token t_id="18" sentence="2" number="17">an</token>
+<token t_id="19" sentence="2" number="18">Apple</token>
+<token t_id="20" sentence="2" number="19">Inc.</token>
+<token t_id="21" sentence="2" number="20">executive</token>
+<token t_id="22" sentence="2" number="21">overseeing</token>
+<token t_id="23" sentence="2" number="22">hardware</token>
+<token t_id="24" sentence="2" number="23">engineering</token>
+<token t_id="25" sentence="2" number="24">for</token>
+<token t_id="26" sentence="2" number="25">the</token>
+<token t_id="27" sentence="2" number="26">company</token>
+<token t_id="28" sentence="2" number="27">'s</token>
+<token t_id="29" sentence="2" number="28">iPhone</token>
+<token t_id="30" sentence="2" number="29">,</token>
+<token t_id="31" sentence="2" number="30">is</token>
+<token t_id="32" sentence="2" number="31">stepping</token>
+<token t_id="33" sentence="2" number="32">down</token>
+<token t_id="34" sentence="2" number="33">from</token>
+<token t_id="35" sentence="2" number="34">his</token>
+<token t_id="36" sentence="2" number="35">post</token>
+<token t_id="37" sentence="2" number="36">.</token>
+<token t_id="38" sentence="3" number="37">The</token>
+<token t_id="39" sentence="3" number="38">move</token>
+<token t_id="40" sentence="3" number="39">came</token>
+<token t_id="41" sentence="3" number="40">after</token>
+<token t_id="42" sentence="3" number="41">Apple</token>
+<token t_id="43" sentence="3" number="42">received</token>
+<token t_id="44" sentence="3" number="43">criticism</token>
+<token t_id="45" sentence="3" number="44">last</token>
+<token t_id="46" sentence="3" number="45">month</token>
+<token t_id="47" sentence="3" number="46">for</token>
+<token t_id="48" sentence="3" number="47">the</token>
+<token t_id="49" sentence="3" number="48">placement</token>
+<token t_id="50" sentence="3" number="49">of</token>
+<token t_id="51" sentence="3" number="50">the</token>
+<token t_id="52" sentence="3" number="51">antenna</token>
+<token t_id="53" sentence="3" number="52">on</token>
+<token t_id="54" sentence="3" number="53">their</token>
+<token t_id="55" sentence="3" number="54">most</token>
+<token t_id="56" sentence="3" number="55">recent</token>
+<token t_id="57" sentence="3" number="56">iPhone</token>
+<token t_id="58" sentence="3" number="57">model</token>
+<token t_id="59" sentence="3" number="58">,</token>
+<token t_id="60" sentence="3" number="59">iPhone</token>
+<token t_id="61" sentence="3" number="60">4</token>
+<token t_id="62" sentence="3" number="61">.</token>
+<token t_id="63" sentence="4" number="62">Apple</token>
+<token t_id="64" sentence="4" number="63">confirmed</token>
+<token t_id="65" sentence="4" number="64">that</token>
+<token t_id="66" sentence="4" number="65">Papermaster</token>
+<token t_id="67" sentence="4" number="66">,</token>
+<token t_id="68" sentence="4" number="67">49</token>
+<token t_id="69" sentence="4" number="68">,</token>
+<token t_id="70" sentence="4" number="69">had</token>
+<token t_id="71" sentence="4" number="70">left</token>
+<token t_id="72" sentence="4" number="71">the</token>
+<token t_id="73" sentence="4" number="72">company</token>
+<token t_id="74" sentence="4" number="73">,</token>
+<token t_id="75" sentence="4" number="74">but</token>
+<token t_id="76" sentence="4" number="75">did</token>
+<token t_id="77" sentence="4" number="76">not</token>
+<token t_id="78" sentence="4" number="77">say</token>
+<token t_id="79" sentence="4" number="78">whether</token>
+<token t_id="80" sentence="4" number="79">he</token>
+<token t_id="81" sentence="4" number="80">decided</token>
+<token t_id="82" sentence="4" number="81">to</token>
+<token t_id="83" sentence="4" number="82">leave</token>
+<token t_id="84" sentence="4" number="83">or</token>
+<token t_id="85" sentence="4" number="84">was</token>
+<token t_id="86" sentence="4" number="85">forced</token>
+<token t_id="87" sentence="4" number="86">out</token>
+<token t_id="88" sentence="4" number="87">.</token>
+<token t_id="89" sentence="5" number="88">Papermaster</token>
+<token t_id="90" sentence="5" number="89">did</token>
+<token t_id="91" sentence="5" number="90">not</token>
+<token t_id="92" sentence="5" number="91">comment</token>
+<token t_id="93" sentence="5" number="92">on</token>
+<token t_id="94" sentence="5" number="93">the</token>
+<token t_id="95" sentence="5" number="94">situation</token>
+<token t_id="96" sentence="5" number="95">.</token>
+<token t_id="97" sentence="6" number="96">According</token>
+<token t_id="98" sentence="6" number="97">to</token>
+<token t_id="99" sentence="6" number="98">The</token>
+<token t_id="100" sentence="6" number="99">New</token>
+<token t_id="101" sentence="6" number="100">York</token>
+<token t_id="102" sentence="6" number="101">Times</token>
+<token t_id="103" sentence="6" number="102">,</token>
+<token t_id="104" sentence="6" number="103">who</token>
+<token t_id="105" sentence="6" number="104">first</token>
+<token t_id="106" sentence="6" number="105">broke</token>
+<token t_id="107" sentence="6" number="106">the</token>
+<token t_id="108" sentence="6" number="107">news</token>
+<token t_id="109" sentence="6" number="108">about</token>
+<token t_id="110" sentence="6" number="109">Papermaster</token>
+<token t_id="111" sentence="6" number="110">'s</token>
+<token t_id="112" sentence="6" number="111">departure</token>
+<token t_id="113" sentence="6" number="112">,</token>
+<token t_id="114" sentence="6" number="113">an</token>
+<token t_id="115" sentence="6" number="114">anonymous</token>
+<token t_id="116" sentence="6" number="115">individual</token>
+<token t_id="117" sentence="6" number="116">"</token>
+<token t_id="118" sentence="6" number="117">with</token>
+<token t_id="119" sentence="6" number="118">direct</token>
+<token t_id="120" sentence="6" number="119">knowledge</token>
+<token t_id="121" sentence="6" number="120">of</token>
+<token t_id="122" sentence="6" number="121">the</token>
+<token t_id="123" sentence="6" number="122">situation</token>
+<token t_id="124" sentence="6" number="123">"</token>
+<token t_id="125" sentence="6" number="124">claimed</token>
+<token t_id="126" sentence="6" number="125">that</token>
+<token t_id="127" sentence="6" number="126">the</token>
+<token t_id="128" sentence="6" number="127">former</token>
+<token t_id="129" sentence="6" number="128">executive</token>
+<token t_id="130" sentence="6" number="129">had</token>
+<token t_id="131" sentence="6" number="130">been</token>
+<token t_id="132" sentence="6" number="131">ousted</token>
+<token t_id="133" sentence="6" number="132">over</token>
+<token t_id="134" sentence="6" number="133">various</token>
+<token t_id="135" sentence="6" number="134">hardware</token>
+<token t_id="136" sentence="6" number="135">issues</token>
+<token t_id="137" sentence="6" number="136">,</token>
+<token t_id="138" sentence="6" number="137">some</token>
+<token t_id="139" sentence="6" number="138">related</token>
+<token t_id="140" sentence="6" number="139">to</token>
+<token t_id="141" sentence="6" number="140">the</token>
+<token t_id="142" sentence="6" number="141">iPod</token>
+<token t_id="143" sentence="6" number="142">Touch</token>
+<token t_id="144" sentence="6" number="143">.</token>
+<token t_id="145" sentence="7" number="144">When</token>
+<token t_id="146" sentence="7" number="145">Apple</token>
+<token t_id="147" sentence="7" number="146">CEO</token>
+<token t_id="148" sentence="7" number="147">Steve</token>
+<token t_id="149" sentence="7" number="148">Jobs</token>
+<token t_id="150" sentence="7" number="149">first</token>
+<token t_id="151" sentence="7" number="150">introduced</token>
+<token t_id="152" sentence="7" number="151">iPhone</token>
+<token t_id="153" sentence="7" number="152">4</token>
+<token t_id="154" sentence="7" number="153">,</token>
+<token t_id="155" sentence="7" number="154">he</token>
+<token t_id="156" sentence="7" number="155">praised</token>
+<token t_id="157" sentence="7" number="156">the</token>
+<token t_id="158" sentence="7" number="157">device</token>
+<token t_id="159" sentence="7" number="158">'s</token>
+<token t_id="160" sentence="7" number="159">antenna</token>
+<token t_id="161" sentence="7" number="160">design</token>
+<token t_id="162" sentence="7" number="161">.</token>
+<token t_id="163" sentence="8" number="162">However</token>
+<token t_id="164" sentence="8" number="163">,</token>
+<token t_id="165" sentence="8" number="164">many</token>
+<token t_id="166" sentence="8" number="165">consumers</token>
+<token t_id="167" sentence="8" number="166">reported</token>
+<token t_id="168" sentence="8" number="167">that</token>
+<token t_id="169" sentence="8" number="168">,</token>
+<token t_id="170" sentence="8" number="169">when</token>
+<token t_id="171" sentence="8" number="170">holding</token>
+<token t_id="172" sentence="8" number="171">the</token>
+<token t_id="173" sentence="8" number="172">phone</token>
+<token t_id="174" sentence="8" number="173">in</token>
+<token t_id="175" sentence="8" number="174">a</token>
+<token t_id="176" sentence="8" number="175">certain</token>
+<token t_id="177" sentence="8" number="176">location</token>
+<token t_id="178" sentence="8" number="177">,</token>
+<token t_id="179" sentence="8" number="178">reception</token>
+<token t_id="180" sentence="8" number="179">would</token>
+<token t_id="181" sentence="8" number="180">decrease</token>
+<token t_id="182" sentence="8" number="181">and</token>
+<token t_id="183" sentence="8" number="182">sometimes</token>
+<token t_id="184" sentence="8" number="183">lead</token>
+<token t_id="185" sentence="8" number="184">to</token>
+<token t_id="186" sentence="8" number="185">dropped</token>
+<token t_id="187" sentence="8" number="186">calls</token>
+<token t_id="188" sentence="8" number="187">.</token>
+<token t_id="189" sentence="9" number="188">Apple</token>
+<token t_id="190" sentence="9" number="189">'s</token>
+<token t_id="191" sentence="9" number="190">response</token>
+<token t_id="192" sentence="9" number="191">to</token>
+<token t_id="193" sentence="9" number="192">the</token>
+<token t_id="194" sentence="9" number="193">issue</token>
+<token t_id="195" sentence="9" number="194">,</token>
+<token t_id="196" sentence="9" number="195">dubbed</token>
+<token t_id="197" sentence="9" number="196">"</token>
+<token t_id="198" sentence="9" number="197">Antennagate</token>
+<token t_id="199" sentence="9" number="198">"</token>
+<token t_id="200" sentence="9" number="199">by</token>
+<token t_id="201" sentence="9" number="200">the</token>
+<token t_id="202" sentence="9" number="201">media</token>
+<token t_id="203" sentence="9" number="202">,</token>
+<token t_id="204" sentence="9" number="203">was</token>
+<token t_id="205" sentence="9" number="204">first</token>
+<token t_id="206" sentence="9" number="205">to</token>
+<token t_id="207" sentence="9" number="206">recommend</token>
+<token t_id="208" sentence="9" number="207">holding</token>
+<token t_id="209" sentence="9" number="208">the</token>
+<token t_id="210" sentence="9" number="209">phone</token>
+<token t_id="211" sentence="9" number="210">in</token>
+<token t_id="212" sentence="9" number="211">a</token>
+<token t_id="213" sentence="9" number="212">different</token>
+<token t_id="214" sentence="9" number="213">location</token>
+<token t_id="215" sentence="9" number="214">.</token>
+<token t_id="216" sentence="10" number="215">They</token>
+<token t_id="217" sentence="10" number="216">later</token>
+<token t_id="218" sentence="10" number="217">found</token>
+<token t_id="219" sentence="10" number="218">a</token>
+<token t_id="220" sentence="10" number="219">related</token>
+<token t_id="221" sentence="10" number="220">software</token>
+<token t_id="222" sentence="10" number="221">glitch</token>
+<token t_id="223" sentence="10" number="222">that</token>
+<token t_id="224" sentence="10" number="223">caused</token>
+<token t_id="225" sentence="10" number="224">the</token>
+<token t_id="226" sentence="10" number="225">signal</token>
+<token t_id="227" sentence="10" number="226">strength</token>
+<token t_id="228" sentence="10" number="227">to</token>
+<token t_id="229" sentence="10" number="228">be</token>
+<token t_id="230" sentence="10" number="229">misreported</token>
+<token t_id="231" sentence="10" number="230">on</token>
+<token t_id="232" sentence="10" number="231">the</token>
+<token t_id="233" sentence="10" number="232">device</token>
+<token t_id="234" sentence="10" number="233">.</token>
+<token t_id="235" sentence="11" number="234">In</token>
+<token t_id="236" sentence="11" number="235">a</token>
+<token t_id="237" sentence="11" number="236">July</token>
+<token t_id="238" sentence="11" number="237">16</token>
+<token t_id="239" sentence="11" number="238">press</token>
+<token t_id="240" sentence="11" number="239">conference</token>
+<token t_id="241" sentence="11" number="240">,</token>
+<token t_id="242" sentence="11" number="241">Jobs</token>
+<token t_id="243" sentence="11" number="242">said</token>
+<token t_id="244" sentence="11" number="243">that</token>
+<token t_id="245" sentence="11" number="244">all</token>
+<token t_id="246" sentence="11" number="245">iPhone</token>
+<token t_id="247" sentence="11" number="246">4</token>
+<token t_id="248" sentence="11" number="247">buyers</token>
+<token t_id="249" sentence="11" number="248">would</token>
+<token t_id="250" sentence="11" number="249">be</token>
+<token t_id="251" sentence="11" number="250">eligible</token>
+<token t_id="252" sentence="11" number="251">to</token>
+<token t_id="253" sentence="11" number="252">receive</token>
+<token t_id="254" sentence="11" number="253">a</token>
+<token t_id="255" sentence="11" number="254">free</token>
+<token t_id="256" sentence="11" number="255">case</token>
+<token t_id="257" sentence="11" number="256">,</token>
+<token t_id="258" sentence="11" number="257">or</token>
+<token t_id="259" sentence="11" number="258">"</token>
+<token t_id="260" sentence="11" number="259">bumper</token>
+<token t_id="261" sentence="11" number="260">,</token>
+<token t_id="262" sentence="11" number="261">"</token>
+<token t_id="263" sentence="11" number="262">which</token>
+<token t_id="264" sentence="11" number="263">alleviates</token>
+<token t_id="265" sentence="11" number="264">the</token>
+<token t_id="266" sentence="11" number="265">signal</token>
+<token t_id="267" sentence="11" number="266">problem</token>
+<token t_id="268" sentence="11" number="267">.</token>
+<token t_id="269" sentence="12" number="268">Citing</token>
+<token t_id="270" sentence="12" number="269">people</token>
+<token t_id="271" sentence="12" number="270">familiar</token>
+<token t_id="272" sentence="12" number="271">with</token>
+<token t_id="273" sentence="12" number="272">the</token>
+<token t_id="274" sentence="12" number="273">situation</token>
+<token t_id="275" sentence="12" number="274">,</token>
+<token t_id="276" sentence="12" number="275">The</token>
+<token t_id="277" sentence="12" number="276">Wall</token>
+<token t_id="278" sentence="12" number="277">Street</token>
+<token t_id="279" sentence="12" number="278">Journal</token>
+<token t_id="280" sentence="12" number="279">reported</token>
+<token t_id="281" sentence="12" number="280">that</token>
+<token t_id="282" sentence="12" number="281">Papermaster</token>
+<token t_id="283" sentence="12" number="282">had</token>
+<token t_id="284" sentence="12" number="283">been</token>
+<token t_id="285" sentence="12" number="284">pushed</token>
+<token t_id="286" sentence="12" number="285">out</token>
+<token t_id="287" sentence="12" number="286">due</token>
+<token t_id="288" sentence="12" number="287">to</token>
+<token t_id="289" sentence="12" number="288">an</token>
+<token t_id="290" sentence="12" number="289">incompatibility</token>
+<token t_id="291" sentence="12" number="290">with</token>
+<token t_id="292" sentence="12" number="291">Apple</token>
+<token t_id="293" sentence="12" number="292">'s</token>
+<token t_id="294" sentence="12" number="293">corporate</token>
+<token t_id="295" sentence="12" number="294">culture</token>
+<token t_id="296" sentence="12" number="295">.</token>
+<token t_id="297" sentence="13" number="296">The</token>
+<token t_id="298" sentence="13" number="297">sources</token>
+<token t_id="299" sentence="13" number="298">claimed</token>
+<token t_id="300" sentence="13" number="299">that</token>
+<token t_id="301" sentence="13" number="300">Papermaster</token>
+<token t_id="302" sentence="13" number="301">was</token>
+<token t_id="303" sentence="13" number="302">not</token>
+<token t_id="304" sentence="13" number="303">used</token>
+<token t_id="305" sentence="13" number="304">to</token>
+<token t_id="306" sentence="13" number="305">the</token>
+<token t_id="307" sentence="13" number="306">environment</token>
+<token t_id="308" sentence="13" number="307">or</token>
+<token t_id="309" sentence="13" number="308">corporate</token>
+<token t_id="310" sentence="13" number="309">politics</token>
+<token t_id="311" sentence="13" number="310">and</token>
+<token t_id="312" sentence="13" number="311">did</token>
+<token t_id="313" sentence="13" number="312">not</token>
+<token t_id="314" sentence="13" number="313">possess</token>
+<token t_id="315" sentence="13" number="314">the</token>
+<token t_id="316" sentence="13" number="315">creativity</token>
+<token t_id="317" sentence="13" number="316">the</token>
+<token t_id="318" sentence="13" number="317">company</token>
+<token t_id="319" sentence="13" number="318">wanted</token>
+<token t_id="320" sentence="13" number="319">to</token>
+<token t_id="321" sentence="13" number="320">see</token>
+<token t_id="322" sentence="13" number="321">.</token>
+<token t_id="323" sentence="14" number="322">They</token>
+<token t_id="324" sentence="14" number="323">also</token>
+<token t_id="325" sentence="14" number="324">said</token>
+<token t_id="326" sentence="14" number="325">that</token>
+<token t_id="327" sentence="14" number="326">it</token>
+<token t_id="328" sentence="14" number="327">was</token>
+<token t_id="329" sentence="14" number="328">Jobs</token>
+<token t_id="330" sentence="14" number="329">,</token>
+<token t_id="331" sentence="14" number="330">not</token>
+<token t_id="332" sentence="14" number="331">Papermaster</token>
+<token t_id="333" sentence="14" number="332">,</token>
+<token t_id="334" sentence="14" number="333">who</token>
+<token t_id="335" sentence="14" number="334">made</token>
+<token t_id="336" sentence="14" number="335">the</token>
+<token t_id="337" sentence="14" number="336">decision</token>
+<token t_id="338" sentence="14" number="337">to</token>
+<token t_id="339" sentence="14" number="338">proceed</token>
+<token t_id="340" sentence="14" number="339">with</token>
+<token t_id="341" sentence="14" number="340">iPhone</token>
+<token t_id="342" sentence="14" number="341">4</token>
+<token t_id="343" sentence="14" number="342">development</token>
+<token t_id="344" sentence="14" number="343">even</token>
+<token t_id="345" sentence="14" number="344">though</token>
+<token t_id="346" sentence="14" number="345">the</token>
+<token t_id="347" sentence="14" number="346">company</token>
+<token t_id="348" sentence="14" number="347">had</token>
+<token t_id="349" sentence="14" number="348">been</token>
+<token t_id="350" sentence="14" number="349">aware</token>
+<token t_id="351" sentence="14" number="350">of</token>
+<token t_id="352" sentence="14" number="351">potential</token>
+<token t_id="353" sentence="14" number="352">signal</token>
+<token t_id="354" sentence="14" number="353">problems</token>
+<token t_id="355" sentence="14" number="354">resulting</token>
+<token t_id="356" sentence="14" number="355">from</token>
+<token t_id="357" sentence="14" number="356">the</token>
+<token t_id="358" sentence="14" number="357">antenna</token>
+<token t_id="359" sentence="14" number="358">placement</token>
+<token t_id="360" sentence="14" number="359">as</token>
+<token t_id="361" sentence="14" number="360">early</token>
+<token t_id="362" sentence="14" number="361">as</token>
+<token t_id="363" sentence="14" number="362">a</token>
+<token t_id="364" sentence="14" number="363">year</token>
+<token t_id="365" sentence="14" number="364">ago</token>
+<token t_id="366" sentence="14" number="365">.</token>
+<token t_id="367" sentence="15" number="366">Papermaster</token>
+<token t_id="368" sentence="15" number="367">'s</token>
+<token t_id="369" sentence="15" number="368">post</token>
+<token t_id="370" sentence="15" number="369">will</token>
+<token t_id="371" sentence="15" number="370">be</token>
+<token t_id="372" sentence="15" number="371">filled</token>
+<token t_id="373" sentence="15" number="372">by</token>
+<token t_id="374" sentence="15" number="373">Bob</token>
+<token t_id="375" sentence="15" number="374">Mansfield</token>
+<token t_id="376" sentence="15" number="375">,</token>
+<token t_id="377" sentence="15" number="376">Apple</token>
+<token t_id="378" sentence="15" number="377">'s</token>
+<token t_id="379" sentence="15" number="378">senior</token>
+<token t_id="380" sentence="15" number="379">vice</token>
+<token t_id="381" sentence="15" number="380">president</token>
+<token t_id="382" sentence="15" number="381">for</token>
+<token t_id="383" sentence="15" number="382">Macintosh</token>
+<token t_id="384" sentence="15" number="383">engineering</token>
+<token t_id="385" sentence="15" number="384">.</token>
+<token t_id="386" sentence="16" number="385">Mansfield</token>
+<token t_id="387" sentence="16" number="386">was</token>
+<token t_id="388" sentence="16" number="387">already</token>
+<token t_id="389" sentence="16" number="388">involved</token>
+<token t_id="390" sentence="16" number="389">in</token>
+<token t_id="391" sentence="16" number="390">iPhone</token>
+<token t_id="392" sentence="16" number="391">development</token>
+<token t_id="393" sentence="16" number="392">,</token>
+<token t_id="394" sentence="16" number="393">overseeing</token>
+<token t_id="395" sentence="16" number="394">processor</token>
+<token t_id="396" sentence="16" number="395">and</token>
+<token t_id="397" sentence="16" number="396">display</token>
+<token t_id="398" sentence="16" number="397">engineering</token>
+<token t_id="399" sentence="16" number="398">.</token>
+<token t_id="400" sentence="17" number="399">Papermaster</token>
+<token t_id="401" sentence="17" number="400">had</token>
+<token t_id="402" sentence="17" number="401">been</token>
+<token t_id="403" sentence="17" number="402">with</token>
+<token t_id="404" sentence="17" number="403">Apple</token>
+<token t_id="405" sentence="17" number="404">since</token>
+<token t_id="406" sentence="17" number="405">November</token>
+<token t_id="407" sentence="17" number="406">2008</token>
+<token t_id="408" sentence="17" number="407">,</token>
+<token t_id="409" sentence="17" number="408">but</token>
+<token t_id="410" sentence="17" number="409">a</token>
+<token t_id="411" sentence="17" number="410">United</token>
+<token t_id="412" sentence="17" number="411">States</token>
+<token t_id="413" sentence="17" number="412">federal</token>
+<token t_id="414" sentence="17" number="413">judge</token>
+<token t_id="415" sentence="17" number="414">barred</token>
+<token t_id="416" sentence="17" number="415">him</token>
+<token t_id="417" sentence="17" number="416">from</token>
+<token t_id="418" sentence="17" number="417">working</token>
+<token t_id="419" sentence="17" number="418">until</token>
+<token t_id="420" sentence="17" number="419">April</token>
+<token t_id="421" sentence="17" number="420">2009</token>
+<token t_id="422" sentence="17" number="421">.</token>
+<token t_id="423" sentence="18" number="422">He</token>
+<token t_id="424" sentence="18" number="423">had</token>
+<token t_id="425" sentence="18" number="424">previously</token>
+<token t_id="426" sentence="18" number="425">held</token>
+<token t_id="427" sentence="18" number="426">a</token>
+<token t_id="428" sentence="18" number="427">senior</token>
+<token t_id="429" sentence="18" number="428">position</token>
+<token t_id="430" sentence="18" number="429">with</token>
+<token t_id="431" sentence="18" number="430">IBM</token>
+<token t_id="432" sentence="18" number="431">,</token>
+<token t_id="433" sentence="18" number="432">where</token>
+<token t_id="434" sentence="18" number="433">he</token>
+<token t_id="435" sentence="18" number="434">had</token>
+<token t_id="436" sentence="18" number="435">worked</token>
+<token t_id="437" sentence="18" number="436">for</token>
+<token t_id="438" sentence="18" number="437">25</token>
+<token t_id="439" sentence="18" number="438">years</token>
+<token t_id="440" sentence="18" number="439">.</token>
+<token t_id="441" sentence="19" number="440">IBM</token>
+<token t_id="442" sentence="19" number="441">sued</token>
+<token t_id="443" sentence="19" number="442">Papermaster</token>
+<token t_id="444" sentence="19" number="443">in</token>
+<token t_id="445" sentence="19" number="444">an</token>
+<token t_id="446" sentence="19" number="445">attempt</token>
+<token t_id="447" sentence="19" number="446">to</token>
+<token t_id="448" sentence="19" number="447">block</token>
+<token t_id="449" sentence="19" number="448">him</token>
+<token t_id="450" sentence="19" number="449">from</token>
+<token t_id="451" sentence="19" number="450">joining</token>
+<token t_id="452" sentence="19" number="451">Apple</token>
+<token t_id="453" sentence="19" number="452">,</token>
+<token t_id="454" sentence="19" number="453">but</token>
+<token t_id="455" sentence="19" number="454">a</token>
+<token t_id="456" sentence="19" number="455">settlement</token>
+<token t_id="457" sentence="19" number="456">was</token>
+<token t_id="458" sentence="19" number="457">reached</token>
+<token t_id="459" sentence="19" number="458">after</token>
+<token t_id="460" sentence="19" number="459">he</token>
+<token t_id="461" sentence="19" number="460">testified</token>
+<token t_id="462" sentence="19" number="461">that</token>
+<token t_id="463" sentence="19" number="462">no</token>
+<token t_id="464" sentence="19" number="463">IBM</token>
+<token t_id="465" sentence="19" number="464">corporate</token>
+<token t_id="466" sentence="19" number="465">secrets</token>
+<token t_id="467" sentence="19" number="466">had</token>
+<token t_id="468" sentence="19" number="467">been</token>
+<token t_id="469" sentence="19" number="468">disclosed</token>
+<token t_id="470" sentence="19" number="469">to</token>
+<token t_id="471" sentence="19" number="470">Apple</token>
+<token t_id="472" sentence="19" number="471">.</token>
+
+
+<Markables>
+<ENTITY_MENTION m_id="1" syntactic_type="APP" head="" comment=""  >
+<token_anchor t_id="54"/>
+<token_anchor t_id="55"/>
+<token_anchor t_id="56"/>
+<token_anchor t_id="57"/>
+<token_anchor t_id="58"/>
+<token_anchor t_id="59"/>
+<token_anchor t_id="60"/>
+<token_anchor t_id="61"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="2" syntactic_type="NAM" head="Papermaster" comment=""  >
+<token_anchor t_id="66"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="3" syntactic_type="NAM" head="iPhone 4" comment=""  >
+<token_anchor t_id="60"/>
+<token_anchor t_id="61"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="4" syntactic_type="APP" head="" comment=""  >
+<token_anchor t_id="66"/>
+<token_anchor t_id="67"/>
+<token_anchor t_id="68"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="5" syntactic_type="NOM" head="company" comment=""  >
+<token_anchor t_id="72"/>
+<token_anchor t_id="73"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="6" syntactic_type="PRO" head="he" comment=""  >
+<token_anchor t_id="80"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="7" syntactic_type="NAM" head="Papermaster" comment=""  >
+<token_anchor t_id="89"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="8" syntactic_type="NAM" head="Mark Papermaster" comment=""  >
+<token_anchor t_id="14"/>
+<token_anchor t_id="15"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="9" syntactic_type="PRE.NAM" head="Apple Inc." comment=""  >
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="10" syntactic_type="PRE.NAM" head="Apple" comment=""  >
+<token_anchor t_id="1"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="11" syntactic_type="APP" head="" comment=""  >
+<token_anchor t_id="14"/>
+<token_anchor t_id="15"/>
+<token_anchor t_id="16"/>
+<token_anchor t_id="17"/>
+<token_anchor t_id="18"/>
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+<token_anchor t_id="21"/>
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+<token_anchor t_id="24"/>
+<token_anchor t_id="25"/>
+<token_anchor t_id="26"/>
+<token_anchor t_id="27"/>
+<token_anchor t_id="28"/>
+<token_anchor t_id="29"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="12" syntactic_type="NOM" head="executive" comment=""  >
+<token_anchor t_id="1"/>
+<token_anchor t_id="2"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="13" syntactic_type="NOM" head="company" comment=""  >
+<token_anchor t_id="26"/>
+<token_anchor t_id="27"/>
+<token_anchor t_id="28"/>
+<token_anchor t_id="29"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="14" syntactic_type="NOM" head="company" comment=""  >
+<token_anchor t_id="4"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="15" syntactic_type="PRO" head="his" comment=""  >
+<token_anchor t_id="35"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="16" syntactic_type="NOM" head="antenna" comment=""  >
+<token_anchor t_id="6"/>
+<token_anchor t_id="7"/>
+<token_anchor t_id="8"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="67" head="" syntactic_type="" comment=""  >
+<token_anchor t_id="19"/>
+<token_anchor t_id="20"/>
+<token_anchor t_id="21"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="17" syntactic_type="NAM" head="Apple" comment=""  >
+<token_anchor t_id="42"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="68" head="" syntactic_type="" comment=""  >
+<token_anchor t_id="44"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="18" syntactic_type="PRE.NAM" head="iPhone 4" comment=""  >
+<token_anchor t_id="6"/>
+<token_anchor t_id="7"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="19" syntactic_type="NOM" head="antenna" comment=""  >
+<token_anchor t_id="51"/>
+<token_anchor t_id="52"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="20" syntactic_type="NOM" head="model" comment=""  >
+<token_anchor t_id="54"/>
+<token_anchor t_id="55"/>
+<token_anchor t_id="56"/>
+<token_anchor t_id="57"/>
+<token_anchor t_id="58"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="21" syntactic_type="PRO" head="their" comment=""  >
+<token_anchor t_id="54"/>
+</ENTITY_MENTION>
+<ENTITY_MENTION m_id="22" syntactic_type="NAM" head="Apple" comment=""  >
+<token_anchor t_id="63"/>
+</ENTITY_MENTION>
+<EVENT_MENTION m_id="25" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="40"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="26" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="43"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="27" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="44"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="28" time="NON_FUTURE" aspect="" special_cases="GEN" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="49"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="29" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="64"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="30" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="71"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="31" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="NEG" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="78"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="32" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="UNDERSPECIFIED" polarity="UNDERSPECIFIED" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="81"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="33" time="FUTURE" aspect="" special_cases="NONE" certainty="UNDERSPECIFIED" polarity="UNDERSPECIFIED" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="83"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="34" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="UNDERSPECIFIED" polarity="UNDERSPECIFIED" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="86"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="35" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="NEG" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="92"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="36" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="95"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="37" time="" aspect="" special_cases="" certainty="CERTAIN" polarity="" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="22"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="38" time="" aspect="" special_cases="" certainty="" polarity="" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="24"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="39" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos="NOUN"  >
+<token_anchor t_id="9"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="40" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos="VERB"  >
+<token_anchor t_id="3"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="41" time="" aspect="" special_cases="" certainty="" polarity="" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="81"/>
+<token_anchor t_id="86"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="66" pred="" pos="" tense="" aspect="" modality="" polarity="" certainty="" time="" special_cases="" comment=""  >
+<token_anchor t_id="22"/>
+<token_anchor t_id="23"/>
+<token_anchor t_id="24"/>
+<token_anchor t_id="25"/>
+<token_anchor t_id="26"/>
+<token_anchor t_id="27"/>
+<token_anchor t_id="28"/>
+<token_anchor t_id="29"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="69" pred="" pos="" tense="" aspect="" modality="" polarity="" certainty="" time="" special_cases="" comment=""  >
+<token_anchor t_id="86"/>
+<token_anchor t_id="87"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="23" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="32"/>
+<token_anchor t_id="33"/>
+</EVENT_MENTION>
+<EVENT_MENTION m_id="24" time="NON_FUTURE" aspect="" special_cases="NONE" certainty="CERTAIN" polarity="POS" tense="" modality="" pred="" comment="" pos=""  >
+<token_anchor t_id="39"/>
+</EVENT_MENTION>
+<SIGNAL m_id="42" comment=""  >
+<token_anchor t_id="41"/>
+</SIGNAL>
+<SIGNAL m_id="43" comment=""  >
+<token_anchor t_id="5"/>
+</SIGNAL>
+<TIMEX3 m_id="44" functionInDocument="NONE" endPoint="" anchorTimeID="45" beginPoint="" value="2010-07" comment="" type="DATE"  >
+<token_anchor t_id="45"/>
+<token_anchor t_id="46"/>
+</TIMEX3>
+<TIMEX3 m_id="45" functionInDocument="CREATION_TIME" endPoint="" anchorTimeID="" beginPoint="" value="2010-08-09" comment="" type="DATE"  >
+<token_anchor t_id="10"/>
+<token_anchor t_id="11"/>
+<token_anchor t_id="12"/>
+<token_anchor t_id="13"/>
+</TIMEX3>
+<VALUE m_id="46" type="QUANTITY" comment=""  >
+<token_anchor t_id="68"/>
+</VALUE>
+
+
+<ENTITY m_id="47" RELATED_TO="" TAG_DESCRIPTOR="Papermaster" ent_type="PER" ent_class="" comment="" external_ref="" />
+<ENTITY m_id="48" RELATED_TO="" TAG_DESCRIPTOR="Apple" ent_type="ORG" ent_class="" comment="" external_ref="" />
+<ENTITY m_id="49" RELATED_TO="" TAG_DESCRIPTOR="antenna" ent_type="PRO" ent_class="" comment="" external_ref="" />
+<ENTITY m_id="50" RELATED_TO="" TAG_DESCRIPTOR="iPhone4" ent_type="PRO" ent_class="" comment="" external_ref="" />
+<EVENT m_id="51" RELATED_TO="" TAG_DESCRIPTOR="oversee" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="52" RELATED_TO="" TAG_DESCRIPTOR="engineering" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="53" RELATED_TO="" TAG_DESCRIPTOR="step down" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="54" RELATED_TO="" TAG_DESCRIPTOR="come" class="GRAMMATICAL" comment="" external_ref="" />
+<EVENT m_id="55" RELATED_TO="" TAG_DESCRIPTOR="receive" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="56" RELATED_TO="" TAG_DESCRIPTOR="criticism" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="57" RELATED_TO="" TAG_DESCRIPTOR="placement" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="58" RELATED_TO="" TAG_DESCRIPTOR="confirm" class="SPEECH_COGNITIVE" comment="" external_ref="" />
+<EVENT m_id="59" RELATED_TO="" TAG_DESCRIPTOR="leave" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="60" RELATED_TO="" TAG_DESCRIPTOR="say" class="SPEECH_COGNITIVE" comment="" external_ref="" />
+<EVENT m_id="61" RELATED_TO="" TAG_DESCRIPTOR="decide" class="SPEECH_COGNITIVE" comment="" external_ref="" />
+<EVENT m_id="62" RELATED_TO="" TAG_DESCRIPTOR="force" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="63" RELATED_TO="" TAG_DESCRIPTOR="comment" class="SPEECH_COGNITIVE" comment="" external_ref="" />
+<EVENT m_id="64" RELATED_TO="" TAG_DESCRIPTOR="issue" class="OTHER" comment="" external_ref="" />
+<EVENT m_id="65" RELATED_TO="" TAG_DESCRIPTOR="decided or was forced" class="SPEECH_COGNITIVE" comment="" external_ref="" />
+</Markables>
+
+<Relations>
+<HAS_PARTICIPANT r_id="482241" frame="" sem_role_framework="PROPBANK" sem_role="Argm-OTHER" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="37" />
+<target m_id="13" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482242" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="37" />
+<target m_id="8" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482243" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="LeavingAnOrganization" eso_role="employment-employee" comment="" frame_element="" >
+<source m_id="23" />
+<target m_id="11" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482244" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="Getting" eso_role="possession-owner_2" comment="" frame_element="" >
+<source m_id="26" />
+<target m_id="17" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482245" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="BeingAtAPlace" eso_role="atPlace-theme" comment="" frame_element="" >
+<source m_id="28" />
+<target m_id="19" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482246" frame="" sem_role_framework="PROPBANK" sem_role="Argm-OTHER" eso_class="BeingAtAPlace" eso_role="atPlace-location" comment="" frame_element="" >
+<source m_id="28" />
+<target m_id="20" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482247" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="29" />
+<target m_id="22" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482248" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="LeavingAnOrganization" eso_role="employment-employee" comment="" frame_element="" >
+<source m_id="30" />
+<target m_id="4" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482249" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="LeavingAnOrganization" eso_role="employment-employer" comment="" frame_element="" >
+<source m_id="30" />
+<target m_id="5" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482250" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="32" />
+<target m_id="6" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482251" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="35" />
+<target m_id="7" />
+</HAS_PARTICIPANT>
+<SLINK r_id="482252" comment="" >
+<source m_id="32" />
+<target m_id="33" />
+</SLINK>
+<HAS_PARTICIPANT r_id="482253" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="" eso_role="" comment="" frame_element="" >
+<source m_id="34" />
+<target m_id="6" />
+</HAS_PARTICIPANT>
+<SLINK r_id="482254" comment="" >
+<source m_id="31" />
+<target m_id="32" />
+</SLINK>
+<SLINK r_id="482255" comment="" >
+<source m_id="31" />
+<target m_id="34" />
+</SLINK>
+<TLINK r_id="482256" reltype="IS_INCLUDED" comment="" signalID="" >
+<source m_id="23" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482257" reltype="BEFORE" comment="" signalID="" >
+<source m_id="25" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482258" reltype="BEFORE" comment="" signalID="" >
+<source m_id="26" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482259" reltype="BEFORE" comment="" signalID="" >
+<source m_id="29" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482260" reltype="BEFORE" comment="" signalID="" >
+<source m_id="30" />
+<target m_id="45" />
+</TLINK>
+<SLINK r_id="482261" comment="" >
+<source m_id="29" />
+<target m_id="30" />
+</SLINK>
+<TLINK r_id="482262" reltype="BEFORE" comment="" signalID="" >
+<source m_id="31" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482263" reltype="BEFORE" comment="" signalID="" >
+<source m_id="32" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482264" reltype="BEFORE" comment="" signalID="" >
+<source m_id="34" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482265" reltype="BEFORE" comment="" signalID="" >
+<source m_id="35" />
+<target m_id="45" />
+</TLINK>
+<TLINK r_id="482266" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="23" />
+<target m_id="25" />
+</TLINK>
+<TLINK r_id="482267" reltype="BEFORE" comment="" signalID="" >
+<source m_id="25" />
+<target m_id="29" />
+</TLINK>
+<TLINK r_id="482268" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="29" />
+<target m_id="35" />
+</TLINK>
+<TLINK r_id="482269" reltype="AFTER" comment="" signalID="" >
+<source m_id="29" />
+<target m_id="30" />
+</TLINK>
+<TLINK r_id="482270" reltype="SIMULTANEOUS" comment="" signalID="" >
+<source m_id="29" />
+<target m_id="31" />
+</TLINK>
+<TLINK r_id="482271" reltype="AFTER" comment="" signalID="" >
+<source m_id="31" />
+<target m_id="32" />
+</TLINK>
+<TLINK r_id="482272" reltype="AFTER" comment="" signalID="" >
+<source m_id="31" />
+<target m_id="34" />
+</TLINK>
+<TLINK r_id="482273" reltype="AFTER" comment="" signalID="42" >
+<source m_id="25" />
+<target m_id="26" />
+</TLINK>
+<TLINK r_id="482274" reltype="IS_INCLUDED" comment="" signalID="" >
+<source m_id="26" />
+<target m_id="44" />
+</TLINK>
+<GLINK r_id="482275" >
+<source m_id="25" />
+<target m_id="24" />
+</GLINK>
+<HAS_PARTICIPANT r_id="482276" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="LeavingAnOrganization" eso_role="employment-employee" comment="" frame_element="" >
+<source m_id="40" />
+<target m_id="12" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482277" frame="" sem_role_framework="PROPBANK" sem_role="Arg1" eso_class="LeavingAnOrganization" eso_role="employment-employer" comment="" frame_element="" >
+<source m_id="40" />
+<target m_id="14" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482278" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="Damaging" eso_role="damaging-undergoer" comment="" frame_element="" >
+<source m_id="39" />
+<target m_id="16" />
+</HAS_PARTICIPANT>
+<REFERS_TO r_id="482279" >
+<source m_id="31" />
+<target m_id="60" />
+</REFERS_TO>
+<REFERS_TO r_id="482280" >
+<source m_id="30" />
+<source m_id="33" />
+<source m_id="40" />
+<target m_id="59" />
+</REFERS_TO>
+<REFERS_TO r_id="482281" >
+<source m_id="16" />
+<source m_id="19" />
+<target m_id="49" />
+</REFERS_TO>
+<REFERS_TO r_id="482282" >
+<source m_id="1" />
+<source m_id="3" />
+<source m_id="18" />
+<source m_id="20" />
+<target m_id="50" />
+</REFERS_TO>
+<REFERS_TO r_id="482283" >
+<source m_id="2" />
+<source m_id="4" />
+<source m_id="6" />
+<source m_id="7" />
+<source m_id="8" />
+<source m_id="11" />
+<source m_id="12" />
+<source m_id="15" />
+<target m_id="47" />
+</REFERS_TO>
+<REFERS_TO r_id="482284" >
+<source m_id="5" />
+<source m_id="9" />
+<source m_id="10" />
+<source m_id="13" />
+<source m_id="14" />
+<source m_id="17" />
+<source m_id="21" />
+<source m_id="22" />
+<target m_id="48" />
+</REFERS_TO>
+<REFERS_TO r_id="482285" >
+<source m_id="29" />
+<target m_id="58" />
+</REFERS_TO>
+<REFERS_TO r_id="482286" >
+<source m_id="28" />
+<target m_id="57" />
+</REFERS_TO>
+<REFERS_TO r_id="482287" >
+<source m_id="38" />
+<target m_id="52" />
+</REFERS_TO>
+<REFERS_TO r_id="482288" >
+<source m_id="37" />
+<target m_id="51" />
+</REFERS_TO>
+<REFERS_TO r_id="482289" >
+<source m_id="25" />
+<target m_id="54" />
+</REFERS_TO>
+<REFERS_TO r_id="482290" >
+<source m_id="23" />
+<source m_id="24" />
+<source m_id="36" />
+<target m_id="53" />
+</REFERS_TO>
+<REFERS_TO r_id="482291" >
+<source m_id="32" />
+<target m_id="61" />
+</REFERS_TO>
+<REFERS_TO r_id="482292" >
+<source m_id="27" />
+<target m_id="56" />
+</REFERS_TO>
+<REFERS_TO r_id="482293" >
+<source m_id="35" />
+<target m_id="63" />
+</REFERS_TO>
+<REFERS_TO r_id="482294" >
+<source m_id="39" />
+<target m_id="64" />
+</REFERS_TO>
+<REFERS_TO r_id="482295" >
+<source m_id="41" />
+<target m_id="65" />
+</REFERS_TO>
+<REFERS_TO r_id="482296" >
+<source m_id="26" />
+<target m_id="55" />
+</REFERS_TO>
+<REFERS_TO r_id="482297" >
+<source m_id="34" />
+<target m_id="62" />
+</REFERS_TO>
+<HAS_PARTICIPANT r_id="482393" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="employment-task" comment="eso addition" frame_element="" >
+<source m_id="23" />
+<target m_id="66" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482394" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="employment-employee" comment="eso addition" frame_element="" >
+<source m_id="23" />
+<target m_id="8" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482395" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="employment-function" comment="eso addition" frame_element="" >
+<source m_id="23" />
+<target m_id="67" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482396" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="" comment="eso addition" frame_element="" >
+<source m_id="24" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482397" frame="" sem_role_framework="PROPBANK" sem_role="Arg0" eso_class="Getting" eso_role="possession-theme" comment="" frame_element="" >
+<source m_id="26" />
+<target m_id="68" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482398" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="" comment="eso addition" frame_element="" >
+<source m_id="33" />
+</HAS_PARTICIPANT>
+<HAS_PARTICIPANT r_id="482399" frame="" sem_role_framework="PROPBANK" sem_role="" eso_class="LeavingAnOrganization" eso_role="" comment="eso addition" frame_element="" >
+<source m_id="69" />
+</HAS_PARTICIPANT>
+</Relations>
+</Document>
