@@ -1,10 +1,10 @@
-Event and Implied Situation Ontology (ESO)
+Event and Implied Situation Ontology (ESO) and the Circumstantial Event Ontology for Calamities (CEO)
 ========================
 
-This repository contains the Event and Applied Situation Ontology (ESO), developed in Newsreader (www.newsreader-project.eu).
+This repository contains the Event and Implied Situation Ontology (ESO), developed in Newsreader (www.newsreader-project.eu) and the Circumstantial Event Ontology for Calamities (CEO).
 
 
-ESO_version2.owl is the latest version of the ontology; the ontology itself is described in ESO_documentation. The folder manual-mappings comprises several files with manually mappings from ESO to FrameNet, SUMO and WordNet.
+ESO_version2.owl is the stable version of the ontology; the ontology itself is described in ESO_documentation. The folder manual-mappings comprises several files with manually mappings from ESO to FrameNet, SUMO and WordNet.
 
 Further, this repository contains the CEO ontology, which builds upon the metamodel of ESO. CEO is designed for the calamity domain (murders, earthquakes, floodings, evacuations, etc) and allows to infer chains of events based on shared event properties. Current version is version 0.7. DISCLAIMER: CEO is still heavily under construction. We will report it here as soon as we have a first stable version.
 
