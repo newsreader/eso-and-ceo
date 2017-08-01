@@ -11,6 +11,7 @@
         <rdfs:comment xml:lang="en">This is the Circumstantial Event Ontology (CEO) an ontology designed specifically for the Calamity domain, coupled with the Events and Situations Ontology (ESO).
 
 All mappings to SUMO and FrameNet in this ontology are based on the version publically available online on February 27th 2017.
+DISCLAIMER: CEO version 0.7 is still heavily under construction and not stable!
 
 For questions and/or suggestions, please contact:
 
@@ -23,7 +24,7 @@ Fundazione Bruno Kessler
 rospocher@fbk.eu
 
 Date: June 6th 2017</rdfs:comment>
-        <owl:versionInfo xml:lang="en">1.0</owl:versionInfo>
+        <owl:versionInfo xml:lang="en">0.7</owl:versionInfo>
     </owl:Ontology>
     
 
